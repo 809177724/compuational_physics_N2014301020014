@@ -1,7 +1,7 @@
 # Homework List
 - [x] Exercise_01:
 - [x] Exercise_02:[Write my English name in Python.](https://www.zybuluo.com/WHUmz/note/504983)
-- [ ] Exercise_03:
+- [x] Exercise_03:[Make your name do some action on screen.]()
 - [ ] Exercise_04:
 - [ ] Exercise_05:
 - [ ] Exercise_06:
