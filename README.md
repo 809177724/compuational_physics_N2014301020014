@@ -5,7 +5,7 @@
 - [x] Exercise_04:[The decay of two kinds of particles]( https://www.zybuluo.com/809177724/note/525915)
 - [x] Exercise_05:[2.6](https://www.zybuluo.com/809177724/note/533722)
 - [ ] Exercise_06:
-- [ ] Exercise_07:
+- [x] Exercise_07:(https://www.zybuluo.com/809177724/note/550329)
 - [ ] Exercise_08:
 - [ ] Exercise_09:
 - [ ] Exercise_10:
