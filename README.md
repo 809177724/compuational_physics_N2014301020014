@@ -6,7 +6,7 @@
 - [x] Exercise_05:[2.6](https://www.zybuluo.com/809177724/note/533722)
 - [ ] Exercise_06:
 - [x] Exercise_07:(https://www.zybuluo.com/809177724/note/550329)
-- [ ] Exercise_08:
+- [x] Exercise_08:(https://www.zybuluo.com/809177724/note/567334)
 - [ ] Exercise_09:
 - [ ] Exercise_10:
 - [ ] Exercise_11:
