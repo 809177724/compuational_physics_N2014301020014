@@ -7,7 +7,7 @@
 - [ ] Exercise_06:
 - [x] Exercise_07:(https://www.zybuluo.com/809177724/note/550329)
 - [x] Exercise_08:(https://www.zybuluo.com/809177724/note/567334)
-- [ ] Exercise_09:
+- [x] Exercise_09:[lorenz_model and billiard_problem](https://www.zybuluo.com/809177724/note/574871)
 - [ ] Exercise_10:
 - [ ] Exercise_11:
 - [ ] Exercise_12:
