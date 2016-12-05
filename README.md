@@ -9,7 +9,7 @@
 - [x] Exercise_08:(https://www.zybuluo.com/809177724/note/567334)
 - [x] Exercise_09:[lorenz_model and billiard_problem](https://www.zybuluo.com/809177724/note/574871)
 - [x] Exercise_10:[The precession of the perihelion of Mercury](http://www.jianshu.com/p/ed38685e5386)
-- [ ] Exercise_11:
+- [x] Exercise_11:[Chaotic Tumbling of Hyperion](http://www.jianshu.com/p/7ef1617a2714)
 - [ ] Exercise_12:
 - [ ] Exercise_13:
 - [ ] Exercise_14:
