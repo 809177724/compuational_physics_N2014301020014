@@ -12,4 +12,4 @@
 - [x] Exercise_11:[Chaotic Tumbling of Hyperion](http://www.jianshu.com/p/7ef1617a2714)
 - [x] Exercise_12:[Electric Potential and Fields](http://www.jianshu.com/p/4df8ab86cf16)
 - [X] Exercise_13:[Exercise_13：Frequency Spectrum of Waves on a String](http://www.jianshu.com/p/904ae426d801)
-- [x] final:[http://www.jianshu.com/p/da59af16ade2]
+- [x][final](http://www.jianshu.com/p/da59af16ade2)
